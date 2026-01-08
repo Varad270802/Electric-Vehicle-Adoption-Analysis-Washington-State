@@ -9,3 +9,4 @@ https://data.wa.gov/Transportation/Electric-Vehicle-Population-Data/f6w7-q2d2
 Tools Used
 
 Python, Pandas, Matplotlib
+<img width="1027" height="630" alt="graph" src="https://github.com/user-attachments/assets/9697417a-8a72-4719-9934-b45cbccb1aa6" />
